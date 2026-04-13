@@ -1,0 +1,8 @@
+node_modules/
+.env
+auth*.json
+state.json
+output-run.json
+*.png
+.agent/
+_build/

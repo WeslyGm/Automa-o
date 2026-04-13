@@ -1,0 +1,15 @@
+# Pipeline: Instagram Autônomo NYX (v2 — Otimizado)
+steps:
+  - ./steps/step-01-menu-inicial.md
+  - ./steps/step-02-pesquisa-auto.md
+  - ./steps/step-03-criacao-conteudo.md
+  - ./steps/step-04-aprovacao.md
+  - ./steps/step-05-producao-visual.md
+  - ./steps/step-06-revisao-veredito.md
+  - ./steps/step-07-auto-post.md
+
+checkpoints:
+  - step: 1
+    type: "menu-inicial"
+  - step: 4
+    type: "approval"

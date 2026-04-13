@@ -1,0 +1,28 @@
+# Squad definition: instagram-autonomo-nyx
+squad:
+  code: "instagram-autonomo-nyx"
+  name: "Instagram Autônomo NYX"
+  description: "Squad de criação autônoma de conteúdo para Instagram com IA e Design Visual."
+  icon: "🤖"
+  version: "1.0.0"
+
+  agents: ./squad-party.csv
+  pipeline: ./pipeline/pipeline.yaml
+
+  skills:
+    - web_search
+    - web_fetch
+    - canva
+    - image-ai-generator
+    - image-creator
+    - instagram-publisher
+    - template-designer
+
+  data:
+    - pipeline/data/research-brief.md
+    - pipeline/data/domain-framework.md
+    - pipeline/data/quality-criteria.md
+    - pipeline/data/output-examples.md
+    - pipeline/data/anti-patterns.md
+    - pipeline/data/tone-of-voice.md
+

@@ -1,0 +1,7 @@
+id,name,title,icon,path
+pietro-pesquisa,Pietro Pesquisa,Especialista em Tendências de IA,🔍,./agents/pietro-pesquisa.agent.md
+fabio-feed,Fábio Feed,Copywriter de Alta Conversão,✍️,./agents/fabio-feed.agent.md
+romulo-reels,Rômulo Reels,Roteirista de Vídeos de Alto Impacto,🎬,./agents/romulo-reels.agent.md
+sergio-stories,Sérgio Stories,Mestre do Engajamento e Interação,📱,./agents/sergio-stories.agent.md
+davi-design,Davi Design,Diretor de Arte IA & Canva,🎨,./agents/davi-design.agent.md
+valeria-veredito,Valéria Veredito,Especialista em Qualidade e Tom de Voz,⚖️,./agents/valeria-veredito.agent.md

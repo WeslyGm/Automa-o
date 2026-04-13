@@ -1,0 +1,24 @@
+# LinkedIn Post Draft — Cobre vs. Fibra: O Fim da Instabilidade
+
+**Hook:** Você já se perguntou por que sua internet "oscila" sem motivo aparente? 📡🌩️
+
+Eu vejo muita gente culpando o roteador ou a operadora, mas na maioria das vezes o culpado é a física por trás do cabo. Se você ainda usa infraestrutura baseada em **Cobre**, você está navegando em uma "antena" gigante.
+
+Aqui está a curiosidade técnica que muda o jogo:
+
+🔌 **O Cabo de Cobre:** Ele funciona através de impulsos elétricos. Por ser metal, ele sofre algo chamado Interferência Eletromagnética (EMI). Motores, redes elétricas e até o tempo chuvoso podem "sujar" o sinal. O resultado? Perda de pacotes e lentidão.
+
+✨ **A Fibra Óptica:** Aqui, o sinal é luz (fótons) viajando por filamentos de vidro. O vidro é um isolante natural. A luz não sofre com campos magnéticos. Você pode passar um cabo de fibra colado em uma rede de alta tensão e o sinal continuará 100% puro.
+
+**A transição não é apenas sobre velocidade, é sobre PAZ.**
+
+Trocar o cobre pela fibra é sair de uma estrada de terra cheia de buracos e entrar em uma pista de gelo perfeitamente lisa. Para quem busca performance real, a estabilidade é o que separa o profissional do amador.
+
+Você ainda sofre com quedas repentinas ou já mudou para o túnel de luz? 👇
+
+---
+
+**Visual (Gerado por IA):**
+Um comparativo 3D de alta fidelidade mostrando o cabo de cobre instável com interferências (esquerda) e a fibra óptica estável com feixe de luz (direita).
+
+**Hashtags:** #Tecnologia #FibraOptica #CobreVsFibra #Infraestrutura #Curiosidade #Conectividade #FutureTech

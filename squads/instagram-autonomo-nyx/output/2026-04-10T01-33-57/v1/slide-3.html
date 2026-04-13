@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;font-family:'Inter',sans-serif;background:#12121e;color:#e0e0e0;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:80px;position:relative;overflow:hidden}
+.accent-line{position:absolute;top:0;left:0;right:0;height:6px;background:#00e676}
+.slide-num{position:absolute;top:40px;right:60px;font-size:18px;font-weight:700;color:#00e676;letter-spacing:2px}
+.content{display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:40px;max-width:900px;z-index:1}
+h1{font-size:52px;font-weight:900;line-height:1.2;letter-spacing:-1px}
+h1 .accent{color:#00e676}
+p{font-size:26px;line-height:1.6;opacity:0.85;font-weight:300}
+.badge{display:inline-block;padding:12px 32px;border:2px solid #00e676;border-radius:40px;font-size:16px;font-weight:700;letter-spacing:3px;color:#00e676;text-transform:uppercase}
+.circle-deco{position:absolute;border-radius:50%;border:2px solid #00e676;opacity:0.15}
+.c1{width:300px;height:300px;bottom:-80px;left:-80px}
+.c2{width:200px;height:200px;top:-40px;right:-40px}
+.c3{width:500px;height:500px;top:50%;left:50%;transform:translate(-50%,-50%);opacity:0.05}
+.logo{position:absolute;bottom:40px;left:60px;font-size:14px;font-weight:700;letter-spacing:2px;opacity:0.4}
+.dots{position:absolute;bottom:40px;right:60px;display:flex;gap:8px}
+.dot{width:10px;height:10px;border-radius:50%;background:rgba(255,255,255,0.2)}
+.dot.active{background:#00e676}
+</style></head><body>
+<div class="accent-line"></div>
+<div class="slide-num">03 / 04</div>
+<div class="circle-deco c1"></div>
+<div class="circle-deco c2"></div>
+<div class="circle-deco c3"></div>
+
+<div class="content">
+  <div class="badge">LINKEDIN • IA NO MERCADO BRASILEIRO</div>
+  <h1>O impacto real nos negócios</h1>
+  <p>Empresas que adotaram IA no mercado brasileiro viram resultados 3x maiores. Não é hype — é dados.</p>
+</div>
+
+<div class="logo">NYX CYBERNECH</div>
+<div class="dots"><div class="dot"></div><div class="dot"></div><div class="dot active"></div><div class="dot"></div></div>
+</body></html>
